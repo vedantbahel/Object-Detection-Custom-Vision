@@ -1,0 +1,12 @@
+{
+  "DomainType": "ObjectDetection",
+  "Platform": "TensorFlow",
+  "Flavor": null,
+  "ExporterVersion": "2.1",
+  "ExportedDate": "2020-04-09T18:20:20.0060048Z",
+  "IterationId": "5c2892e0-4b95-407f-9e87-00f3550f0846",
+  "ModelFileName": "model.pb",
+  "LabelFileName": "labels.txt",
+  "ModelFileSHA1": "322ce7756189ce27cfdc8e1635bbca1e697dfb8c",
+  "SchemaVersion": "1.0"
+}
